@@ -10,7 +10,7 @@ h5 { margin-top: 0 !important; }
 
 ### About me
 
-My name is Luciano Nooijen, a web/mobile and DevOps consultant. Currently, I work as technical lead at [Bytecode Digital Agency B.V.](https://bytecode.nl), an agency I co-founded.
+My name is Jeroen van Steijn, a web/mobile and DevOps consultant. Currently, I work as technical lead at [Bytecode Digital Agency B.V.](https://bytecode.nl), an agency I co-founded.
 
 #### Career
 

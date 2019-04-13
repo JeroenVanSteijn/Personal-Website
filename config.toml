@@ -1,6 +1,6 @@
-baseurl = "https://lucianonooijen.nl" # Hostname (and path) to the root.
-title = "Luciano Nooijen" # Site title.
-theme = "lucianonooijen" # Set the theme.
+baseurl = "https://jeroenvansteijn.nl" # Hostname (and path) to the root.
+title = "Jeroen van Steijn" # Site title.
+theme = "jeroenvansteijn" # Set the theme.
 languageCode = "nl-nl"
 
 paginate = 20 # Default number of pages per page in pagination.
@@ -11,12 +11,12 @@ pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
 [params] # theme parameters
-    author = "Luciano Nooijen" # Author's name.
+    author = "Jeroen van Steijn" # Author's name.
     info = "Web and Mobile Development Consultant" # Author's job title or info.
-    description = "Mijn naam is Luciano Nooijen, web en mobile consultant en business analyst. Ik ben werkzaam bij Bytecode, een gedeeltelijk door mij opgerichtte Agency" # Site description.
-    keywords = "luciano,nooijen,luciano nooijen,bytecode" # Site keywords.
+    description = "Mijn naam is Jeroen van Steijn, web en mobile consultant en business analyst. Ik ben werkzaam bij Bytecode, een gedeeltelijk door mij opgerichtte Agency" # Site description.
+    keywords = "jeroen,steijn,jeroen van steijn,bytecode" # Site keywords.
 
-    # disqusShortname = "lucianonooijen" # Enable or disable Disqus
+    # disqusShortname = "jeroenvansteijn" # Enable or disable Disqus
     disqusShortname = "" # Enable or disable Disqus
 
     # Whether you want to hide copyright and credits in the footer.
@@ -33,15 +33,15 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [[params.social]]
     name = "Github"
     weight = 1
-    url = "https://github.com/lucianonooijen/"
+    url = "https://github.com/jeroenvansteijn/"
 [[params.social]]
     name = "Twitter"
     weight = 2
-    url = "https://twitter.com/lucianonooijen/"
+    url = "https://twitter.com/jjvansteijn/"
 [[params.social]]
     name = "LinkedIn"
     weight = 3
-    url = "https://www.linkedin.com/in/lucianonooijen/"
+    url = "https://www.linkedin.com/in/jjvansteijn/"
 
 # Menu links
 [[menu.main]]
@@ -67,4 +67,4 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 [[menu.main]]
     name = "Email"
     weight = 4
-    url = "mailto:luciano@bytecode.nl"
+    url = "mailto:jeroen@bytecode.nl"

@@ -5,7 +5,7 @@ slug = "over"
 
 #### Introductie
 
-Mijn naam is Luciano Nooijen, web, mobile en DevOps consultant. Momenteel ben ik werkzaam bij [Bytecode Digital Agency B.V.](https://bytecode.nl), het bedrijf dat ik samen met Jeroen van Steijn heb opgericht, waar ik de rol als analyst/consultant en technical lead vervul.
+Mijn naam is Jeroen van Steijn, web, mobile en DevOps consultant. Momenteel ben ik werkzaam bij [Bytecode Digital Agency B.V.](https://bytecode.nl), het bedrijf dat ik samen met Jeroen van Steijn heb opgericht, waar ik de rol als analyst/consultant en technical lead vervul.
 
 #### Werkzaamheden
 
@@ -23,7 +23,7 @@ Met het team van Freelancers waarmee Nooijen Web Solutions werd gerund is later 
 
 #### Opleiding
 
-In 2017 heb ik succesvol mijn VWO afgerond bij het Stanislascollege Pijnacker. Hierna heb ik voor een half jaar aan de TU Delft gestudeerd, Computer Science and Engineering. Echter ben ik erg autodidact, en sloot de opleiding niet goed aan bij wat ik wilde bereiken en de manier waarop ik het beste leer. Hierom ben ik zelfstandig verder gaan leren.
+In 2017 heb ik succesvol mijn VWO afgerond bij het Stanislascollege Pijnacker. Hierna ben ik aan de TU Delft Computer Science and Engineering gaan studeren. Echter ben ik erg autodidact, en sloot de opleiding niet goed aan bij wat ik wilde bereiken en de manier waarop ik het beste leer. Hierom ben ik zelfstandig verder gaan leren.
 
 Naast praktische toepassingen ben ik me ook erg gaan verdiepen in theoretische zaken rondom computer science, omdat ik de waarde zie van waarom iets op een bepaalde manier gedaan wordt, in plaats van alleen te leren dat het op die manier gedaan moet worden.
 
@@ -37,13 +37,11 @@ In 2016 heb ik mijn Anglia Proficiency certificaat met een "Distinction" grade b
 
 #### Vrije tijd
 
-Omdat ik sterk geloof in vrije(/open source) software probeer ik zo veel mogelijk hieraan bij te dragen met de ontwikkeling waar ik verantwoordelijk voor ben, niet alleen met Bytecode, maar ook daarbuiten.
-
-In mijn vrije tijd kijk ik graag American Football (New York Giants) of Baseball (Los Angeles Dodgers).
+In mijn vrije tijd voetbal ik als rechtsback bij RKDEO 8. 
 
 #### Website
 
-De broncode van deze website is beschikbaar gesteld op mijn [Github-profiel](https://github.com/lucianonooijen/personal-website) onder MIT-licentie.
+De broncode van deze website is beschikbaar gesteld op mijn [Github-profiel](https://github.com/jeroenvansteijn/personal-website) onder MIT-licentie.
 
 Deze website is ontwikkeld in statische website generator Hugo (geschreven in GoLang).
 

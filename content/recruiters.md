@@ -60,7 +60,7 @@ Of het team Engels-sprekend of Nederlands-sprekend is, maakt voor mij niet uit, 
 
 #### Vragen of contact
 
-Voor vragen, of voor een kennismaking ben ik te bereiken op [015-2024222](callto:0152024222), of per email op [luciano@bytecode.nl](mailto:luciano@bytecode.nl).
+Voor vragen, of voor een kennismaking ben ik te bereiken op [015-2024222](callto:0152024222), of per email op [jeroen@bytecode.nl](mailto:jeroen@bytecode.nl).
 
-Linken? [Voeg me gerust toe](https://www.linkedin.com/in/lucianonooijen/).
+Linken? [Voeg me gerust toe](https://www.linkedin.com/in/jeroenvansteijn/).
 
