@@ -20,20 +20,15 @@ Mijn beschikbaarheid is:
 
 Momenteel hanteer ik een uurtarief van €70-€80, afhankelijk van het project. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
 
-Ik woon in Delfgauw, en sta open voor projecten met een maximale reistijd van 30, het liefst 20, minuten met de auto/OV, het liefst reizend buiten de spits.
-
-_Mijn voorkeur gaat uit naar een project met een looptijd van maximaal 3 maanden_.
+Ik woon in Delft, en sta open voor projecten met een maximale reistijd van 30, het liefst 20, minuten met de auto/OV, het liefst reizend buiten de spits.
 
 #### Technieken
 
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken:
 
-* NodeJS/Typescript, back-end/full-stack Javascript (4 jaar professionele ervaring)
-* ReactJS (+Redux) voor front-end Javascript (3 jaar professionele ervaring)
-* React Native voor mobile development (3 jaar professionele ervaring)
-* DevOps/Cloud-automatisering, met tools zoals Ansible en Terraform (3 jaar professionele ervaring)
-
-Als er hiernaast ook nog focus zou liggen op security-aspecten zou dat helemaal top zijn.
+* PHP / Laravel developer (4 jaar ervaring)
+* Scala, Java developer (3 jaar ervaring)
+* Javascript developer (2 jaar ervaring)
 
 Om meer te lezen over mijn skillset, ga naar de [expertise-pagina](/expertise). Hier wordt ook mijn werkwijze verder toegelicht.
 
@@ -48,7 +43,7 @@ Zo liggen mijn interesses vooral bij:
 * Consultancy op IT-gebied, en hoe wensen het beste een technische invulling kunnen krijgen
 * Bijdragen aan open-source/vrije software-projecten van bedrijven
 * Bedrijven moderniseren op IT-gebied (bv. van on-premise COBOL-applicaties naar microservices in de cloud)
-* Start-ups waarbij software de main-focus is
+* Start-ups waarbij software de main-focus is (SAAS projecten)
 
 #### Team en mindset
 
@@ -62,5 +57,5 @@ Of het team Engels-sprekend of Nederlands-sprekend is, maakt voor mij niet uit, 
 
 Voor vragen, of voor een kennismaking ben ik te bereiken op [015-2024222](callto:0152024222), of per email op [jeroen@bytecode.nl](mailto:jeroen@bytecode.nl).
 
-Linken? [Voeg me gerust toe](https://www.linkedin.com/in/jeroenvansteijn/).
+Linken? [Voeg me gerust toe](https://www.linkedin.com/in/jjvansteijn/).
 
