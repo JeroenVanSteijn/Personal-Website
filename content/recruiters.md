@@ -15,20 +15,22 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [over](/over)-p
 
 Mijn beschikbaarheid is:
 
-* Maximaal 2 dagen bij de klant on-site
+* Maximaal 1 dag (of 2 halve dagen) in de week bij de klant on-site
 * Hiernaast maximaal 2 dagen remote
 
-Momenteel hanteer ik een uurtarief van €70-€80, afhankelijk van het project. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
+Momenteel hanteer ik een uurtarief van €80. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
 
-Ik woon in Delft, en sta open voor projecten met een maximale reistijd van 30, het liefst 20, minuten met de auto/OV, het liefst reizend buiten de spits.
+Ik woon in Nootdorp, en sta open voor projecten met een maximale reistijd van 30 minuten met de auto of het openbaar vervoer.
 
 #### Technieken
 
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken:
 
-* PHP / Laravel developer (4 jaar ervaring)
-* Scala, Java developer (3 jaar ervaring)
-* Javascript developer (2 jaar ervaring)
+* PHP / Laravel / Wordpress developer (4 jaar ervaring)
+* Java developer (3 jaar ervaring)
+* Javascript developer (3 jaar ervaring)
+* Magento 2 developer (2 jaar ervaring)
+* Scala developer (2 jaar ervaring)
 
 Om meer te lezen over mijn skillset, ga naar de [expertise-pagina](/expertise). Hier wordt ook mijn werkwijze verder toegelicht.
 
@@ -41,7 +43,6 @@ Zo liggen mijn interesses vooral bij:
 * IT-automatisering binnen een bedrijf (bv. koppelingen maken tussen verschillende applicaties)
 * Het oplossen van problemen binnen een bedrijf dmv. het ontwikkelen/integreren van maatwerksoftware
 * Consultancy op IT-gebied, en hoe wensen het beste een technische invulling kunnen krijgen
-* Bijdragen aan open-source/vrije software-projecten van bedrijven
 * Bedrijven moderniseren op IT-gebied (bv. van on-premise COBOL-applicaties naar microservices in de cloud)
 * Start-ups waarbij software de main-focus is (SAAS projecten)
 
@@ -58,4 +59,3 @@ Of het team Engels-sprekend of Nederlands-sprekend is, maakt voor mij niet uit, 
 Voor vragen, of voor een kennismaking ben ik te bereiken op [015-2024222](callto:0152024222), of per email op [jeroen@bytecode.nl](mailto:jeroen@bytecode.nl).
 
 Linken? [Voeg me gerust toe](https://www.linkedin.com/in/jjvansteijn/).
-

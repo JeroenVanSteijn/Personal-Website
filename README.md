@@ -32,3 +32,9 @@ The `make` command can also be used:
 ### License
 
 MIT
+
+### TODO
+
+- Add info on topics I find interesting
+- Add grades (in a fun way)
+- Add expertise on Phonegap/Ionic, Php frameworks like idiorm and paris, Server management, API's and websockets, Chatbots (Rasa) etc.

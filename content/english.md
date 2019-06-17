@@ -16,17 +16,13 @@ My name is Jeroen van Steijn, a web/mobile and DevOps consultant. Currently, I w
 
 I started programming when I was quite young. In 2009 I created my first website, but from 2014 on I started working as a developer professionally.
 
-I first started my professional career freelancing, under the name of Nooijen Web Solutions. The amount of projects grew rapidly, and soon I had to involve other freelancers to help me out.
+I first started my professional career freelancing, under the name of Nooijen/Van Steijn Web Solutions together with Luciano Nooijen. The amount of projects grew rapidly, and soon I had to involve other freelancers to help me out.
 
-After a few years during which business kept growing, Jeroen, a close and supportive friend, and I decided to join forces and found an agency. We started Bytecode Digital Agency, Bytecode for short.
+After a few years during which business kept growing, Luciano and I decided to join forces and co-found an agency. We started Bytecode Digital Agency, Bytecode for short.
 
 #### Education
 
 In 2017 I finished VWO, the highest level of Dutch high school. Afterwards, I followed some Computer Science and Engineering courses at Delft University of Science.
-
-During my time as a professional, I have always been very self-tought. While attending University, I felt that I could achieve more learning the way I had always done. I decided to quit University and focus on self-education instead.
-
-Even though I always try to find the most practical solution, I do see the value of knowing the foundations of computer science, which are usually taught at Universities, and not just software engineering. For this reason I also focused a lot on algorithms and algorithm design, cryptography and datastructures.
 
 #### Courses
 
@@ -45,33 +41,17 @@ The tools I work with most often are marked in **bold**.
 
 * **NodeJS/Javascript** (ES6+, Typescript, Jest)
 * **ReactJS** (+Redux) and Angular 2+
-* Python, (Django, Flask)
-* Rust (Rocket, Diesel)
-* Elixir (Phoenix)
 * PHP (WordPress, Laravel, Magento 2)
 
 ## Mobile development
 
 * **React Native** (with and without Expo)
 * **Progressive Web Apps**
-* Flutter
 
 ## Databases
 
 * **PostgreSQL**
 * MySQL
-* NoSQL (MongoDB)
-* GraphQL
-
-## Devops
-
-* **Linux** (Arch, Ubuntu, CentOS)
-* **Docker** (Compose)
-* **Ansible**
-* CI/CD (GitLab, Travis)
-* Terraform
-* Cloud (DigitalOcean, AWS)
-* Kubernetes
 
 ## Working methodology
 
@@ -105,20 +85,14 @@ To read more about Bytecode, you can check [bytecode.nl](https://bytecode.nl).
 
 ###### Tools used (most frequently used in bold)
 
-* **Javascript/Typescript**: NodeJS, ReactJS (+Redux), React Native, Jest
-* **Python**: Django, Flask
-* **DevOps**: Ansible, Docker, Linux, Terraform, GitLab
+* **Javascript/Typescript**: NodeJS, ReactJS, React Native
 * Databases: PostgreSQL, MySQL
 * PHP: Laravel, WordPress, Magento 2
-* Misc: Elixir, Rust, Flutter
 
 ###### Project selection
 
 *Selection of projects not under NDA*
 
-* Internal infrastructure (DigitalOcean, Ansible, Terraform, Kubernetes)
-* Client infrastructure (DigitalOcean, Ansible, Terraform, Kubernetes)
-* Bytecode proposal/document generator (NodeJS, HTML/CSS)
 * [Mooiwerk Breda](https://mooiwerkbreda.nl) (NodeJS, WordPress, HTML/CSS)
 * Research-related Android app for Reinier de Graaf Hospital (Java)
 * VitAPK mobile app iOS + Android (React Native, Expo)
@@ -129,31 +103,13 @@ To read more about Bytecode, you can check [bytecode.nl](https://bytecode.nl).
 
 <br>
 
-### Stager Software */ Front-end/full-stack developer*
-
-##### Januari 2017 to June 2018
-
-During my time at Stager, I worked as a front-end/full-stack developer on the Stager ticketing service. The SCRUM team I was part of operated using 2 week sprints, where I took care of most front-end issues, but I also worked on the Java-backend quite a lot.
-
-I quit working at Stager to focus on Bytecode.
-
-###### Tools used
-
-* Javascript: NodeJS, ReactJS, jQuery, Ionic 2 (Angular)
-* Python: Wagtail CMS
-* Databases: MySQL
-* Java: Play! Framework, Hibernate, Groovy
-* Emails: MJML for email templating
-
-<br>
-
-### Nooijen Web Solutions */ Owner, Founder, Full-stack developer*
+### Nooijen / Van Steijn Solutions */ Owner, Founder, Full-stack developer*
 
 ##### 2014 to May 2018
 
-During my time running Nooijen Web Solutions I worked with a team of 4 other freelancers on a variety of projects, ranging from one-page marketing websites to custom web solutions. I worked as the lead-developer for most projects.
+During my time running Nooijen / VAn Steijn Solutions I worked with a team of 4 other freelancers on a variety of projects, ranging from one-page marketing websites to custom web solutions. I worked as the lead-developer for most projects.
 
-Nooijen Web Solutions was discontinued when Bytecode was founded.
+Nooijen / Van Steijn Solutions was discontinued when Bytecode was founded.
 
 ###### Tools used
 
@@ -163,13 +119,11 @@ Nooijen Web Solutions was discontinued when Bytecode was founded.
 
 <br>
 
-### Chemiewinkel.com */ Owner/Founder*
+### OngeveerGratis.nl */ Owner/Founder*
 
-##### July 2014 to December 2018
+##### April 2015 to December 2018
 
-Out of a passion for chemistry, I started the webshop chemiewinkel.com. This webshop was created using WordPress/WooCommerce. I took care of all aspects of running this webshop, from keeping the webshop up to date, to marketing and from filing tax reports to fulfillment.
-
-Chemiewinkel.com was discontinued to fully focus on Bytecode.
+//TODO: sadly this site is not completely up to date yet. If you have any questions, feel free to [contact me](jeroen@bytecode.nl)
 
 ###### Tools used
 

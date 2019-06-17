@@ -5,7 +5,7 @@ slug = "over"
 
 #### Introductie
 
-Mijn naam is Jeroen van Steijn, web en mobile consultant. Momenteel ben ik werkzaam bij [Bytecode Digital Agency B.V.](https://bytecode.nl), het bedrijf dat ik samen met Luciano Nooijen heb opgericht, waar ik de rol als analyst/consultant en leidinggevende vervul.
+Mijn naam is Jeroen van Steijn, web en mobile consultant. Momenteel ben ik werkzaam bij [Bytecode Digital Agency B.V.](https://bytecode.nl), het bedrijf dat ik samen met Luciano Nooijen heb opgericht, waar ik als software developer en directeur optreed.
 
 #### Werkzaamheden
 
@@ -23,9 +23,9 @@ Met het team van Freelancers waarmee Nooijen(/Van Steijn) Web Solutions werd ger
 
 #### Opleiding
 
-In 2017 heb ik succesvol mijn VWO afgerond bij het Stanislascollege Pijnacker. Hierna ben ik aan de TU Delft Computer Science and Engineering gaan studeren.
+In 2017 heb ik succesvol mijn VWO afgerond bij het Stanislascollege Pijnacker. Hierna ben ik aan de TU Delft Computer Science and Engineering gaan studeren. Deze studie heb ik inmiddels op **3** vakken na afgerond.
 
-Naast praktische toepassingen ben ik me ook erg gaan verdiepen in theoretische zaken rondom computer science, omdat ik de waarde zie van waarom iets op een bepaalde manier gedaan wordt, in plaats van alleen te leren dat het op die manier gedaan moet worden.
+Het tweede half jaar van 2019 studeer ik psychologie aan de Universiteit Leiden.
 
 #### Certificaten
 

@@ -13,12 +13,8 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 
 ## Web-development
 
-* **NodeJS/Javascript** (ES6+, Typescript, Jest)
-* **ReactJS** (icm. Redux) en Angular 2+
-* Python, (Django, Flask)
-* Elixir (Phoenix)
-* Rust (Rocket, Diesel)
-* C# (.Net/.Net Core)
+* **NodeJS/Javascript** (ES6+, Typescript)
+* **ReactJS**
 * PHP (WordPress, Laravel, Magento 2)
 
 ## Mobile development
@@ -26,25 +22,13 @@ De technieken waar ik momenteel het meeste mee werk zijn in **bold**.
 * **React Native** (Expo)
 * **Progressive Web Apps**
 * Ionic 2+
-* Flutter
 * Accelerated Mobile Pages
 
 ## Databases
 
 * **PostgreSQL**
 * MySQL
-* NoSQL (MongoDB)
 * GraphQL
-
-## Devops
-
-* **Linux** (Arch, Ubuntu, CentOS)
-* **Docker** (Compose)
-* **Ansible**
-* CI/CD (GitLab, Travis)
-* Terraform
-* Cloud (DigitalOcean, AWS)
-* Kubernetes
 
 ## Werkwijze
 
@@ -71,28 +55,16 @@ Als developer is het belangrijk om altijd te blijven leren en om ervoor te zorge
 
 ###### Waar ik momenteel mee bezig ben:
 
-* Lezen van The C Programming Language (Kernighan, Ritchie)
-* Low-level web programming met Rust (icm Rocket)
-* Lezen van The Art of Computer Programming, deel 1 tot 4A (Donald Knuth)
+//TODO: sadly this site is not completely up to date yet. If you have any questions, feel free to [contact me](jeroen@bytecode.nl)
 
 ###### Waar ik de afgelopen tijd mee bezig ben geweest (meest noemenswaardig):
 
-* Functioneel programmeren met Elixir (+Phoenix framework)
-* Verdiepen in geavanceerde web security en het beveiligen van applicaties
-* Flutter voor mobiele ontwikkeling
-* Lezen van Clean Code, Robert C. Martin
-* Kubernetes in production
+//TODO: sadly this site is not completely up to date yet. If you have any questions, feel free to [contact me](jeroen@bytecode.nl)
 
 ###### Wat ik nog wil gaan leren (meest noemenswaardig):
 
-* Functioneel front-end web development met Elm
-* WebAssembly
-* Artificial Intelligence en Neural Networks met Tensorflow
-* Lezen van The Clean Coder en Clean Architecture (Robert C. Martin)
-* Lezen van The Lean Startup en Start With Why
+//TODO: sadly this site is not completely up to date yet. If you have any questions, feel free to [contact me](jeroen@bytecode.nl)
 
 ###### Vragen of hulp nodig?
 
 Ik ben erg gepassioneerd over hoe ik alles heb geconfigureerd, en ik help anderen graag. Mocht je vragen hebben, [mail me gerust](mailto:jeroen@bytecode.nl)!
-
-
