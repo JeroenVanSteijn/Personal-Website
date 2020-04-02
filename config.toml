@@ -35,10 +35,6 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     weight = 1
     url = "https://github.com/jeroenvansteijn/"
 [[params.social]]
-    name = "Twitter"
-    weight = 2
-    url = "https://twitter.com/jjvansteijn/"
-[[params.social]]
     name = "LinkedIn"
     weight = 3
     url = "https://www.linkedin.com/in/jjvansteijn/"
@@ -60,10 +56,6 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
     name = "Ervaring"
     weight = 3
     url = "/ervaring/"
-# [[menu.main]]
-#     name = "Blog"
-#     weight = 4
-#     url = "/blog/"
 [[menu.main]]
     name = "Email"
     weight = 4

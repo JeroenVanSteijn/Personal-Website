@@ -16,20 +16,17 @@ Om te lezen over mij als persoon en mijn achtergrond, ga naar de [over](/over)-p
 Mijn beschikbaarheid is:
 
 * Maximaal 1 dag (of 2 halve dagen) in de week bij de klant on-site
-* Hiernaast maximaal 2 dagen remote
+* Hiernaast maximaal 3 dagen remote
 
-Momenteel hanteer ik een uurtarief van €80. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
-
-Ik woon in Nootdorp, en sta open voor projecten met een maximale reistijd van 30 minuten met de auto of het openbaar vervoer.
+Momenteel hanteer ik een uurtarief van €85. Dit uurtarief is inclusief reis- en verblijfkosten, en exclusief omzetbelasting.
 
 #### Technieken
 
 Momenteel ben ik beschikbaar voor een project met een of meerdere van de volgende technieken:
 
-* PHP / Laravel / Wordpress developer (4 jaar ervaring)
-* Java developer (3 jaar ervaring)
-* Javascript developer (3 jaar ervaring)
-* Magento 2 developer (2 jaar ervaring)
+* PHP / Laravel / Wordpress developer (5 jaar ervaring)
+* Java developer (4 jaar ervaring)
+* Javascript/React developer (3 jaar ervaring)
 * Scala developer (2 jaar ervaring)
 
 Om meer te lezen over mijn skillset, ga naar de [expertise-pagina](/expertise). Hier wordt ook mijn werkwijze verder toegelicht.
@@ -43,7 +40,7 @@ Zo liggen mijn interesses vooral bij:
 * IT-automatisering binnen een bedrijf (bv. koppelingen maken tussen verschillende applicaties)
 * Het oplossen van problemen binnen een bedrijf dmv. het ontwikkelen/integreren van maatwerksoftware
 * Consultancy op IT-gebied, en hoe wensen het beste een technische invulling kunnen krijgen
-* Bedrijven moderniseren op IT-gebied (bv. van on-premise COBOL-applicaties naar microservices in de cloud)
+* Bedrijven moderniseren op IT-gebied
 * Start-ups waarbij software de main-focus is (SAAS projecten)
 
 #### Team en mindset
