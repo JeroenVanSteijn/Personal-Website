@@ -23,7 +23,7 @@ Met het team van Freelancers waarmee Nooijen(/Van Steijn) Solutions werd gerund 
 
 Momenteel studeer ik aan de TU Delft  de Bachelor Computer Science and Engineering. Deze studie heb ik inmiddels op **3** vakken na afgerond.
 
-Het tweede helft van 2019 studeerde ik psychologie aan de Universiteit Leiden.
+De tweede helft van 2019 studeerde ik psychologie aan de Universiteit Leiden.
 
 #### Certificaten
 
