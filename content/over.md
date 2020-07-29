@@ -3,7 +3,7 @@ title = "Over mij"
 slug = "over"
 +++
 
-Mijn naam is Jeroen van Steijn, web en mobile consultant. Als mede-eigenaar van [Bytecode Digital Agency B.V.](https://bytecode.nl) heb ik brede ervaring opgedaan. Van sales en leidinggeven tot communicatie en project management. Daarnaast heb ik met mijn gelijktijdge opleiding Computer Science & Engineering aan de TU Delft verdiepende kennis opgedaan op het gebied van software ontwikkeling, en heb ik ook bij Bytecode en hiervoor als Freelancer vele software technieken toegepast.
+Mijn naam is Jeroen van Steijn, web en mobile consultant. Als mede-eigenaar van [Bytecode Digital Agency B.V.](https://bytecode.nl) heb ik brede ervaring opgedaan op het gebied van communciatie, leidinggeven, project management, sales en development. Daarnaast heb ik met mijn gelijktijdge opleiding Computer Science & Engineering aan de TU Delft verdiepende kennis opgedaan op het gebied van software ontwikkeling.
 
 #### Opleiding
 
