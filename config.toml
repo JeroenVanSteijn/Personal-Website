@@ -12,8 +12,8 @@ pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences wi
 
 [params] # theme parameters
     author = "Jeroen van Steijn" # Author's name.
-    info = "Web and Mobile Development Consultant" # Author's job title or info.
-    description = "Mijn naam is Jeroen van Steijn, web en mobile consultant en business analyst. Ik ben werkzaam bij Bytecode, een gedeeltelijk door mij opgerichtte Agency" # Site description.
+    info = "Senior full-stack developer" # Author's job title or info.
+    description = "Mijn naam is Jeroen van Steijn, senior full-stack software developer" # Site description.
     keywords = "jeroen,steijn,jeroen van steijn,bytecode" # Site keywords.
 
     # disqusShortname = "jeroenvansteijn" # Enable or disable Disqus

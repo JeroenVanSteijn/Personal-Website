@@ -7,32 +7,43 @@ De technieken waar ik momenteel het meeste mee werk staan in **bold**.
 
 ## Backend
 
-* **NodeJS**
-* **PHP (WordPress, Laravel, Magento 2)**
+* **NodeJS / Typescript**
+* **PHP (Laravel, WordPress)**
 * Java
-* Golang
+* Go
 * Python (Flask)
-* C++
 * Scala
 
 ## Frontend
 
-* **ReactJS**
-* **AngularJS**
-* JQuery
+* **React / Typescript**
+* Angular
+* Javascript (regular)
 
 ## Mobile development
 
-* **React Native** (Expo)
-* Ionic 2+
+* **React Native**
 * Progressive Web Apps
+* Ionic 2+, Apache Cordova & Phonegap
 
-## Databases
+## Databases & Database design
 
+* **Design: 3NF/BCNF database design**
 * **PostgreSQL**
-* MySQL
+* **MySQL**
 * GraphQL
+
+## Overige
+
+* Linux web-server management (Unix, Nginx/Apache)
+* Database-management systemen en SQL
+* Continious Integration & Continious Delivery
+* Unit, integration and end-to-end testing
+* Neural networks en machine learning
+* Computer networking (DNS, TCP, UTP, (web)RTC, websockets)
+* Webshops (Woocommerce, Magento, CCV Shop, Lightspeed, Shopify)
+* Git
 
 ###### Vragen of hulp nodig?
 
-Ik ben erg gepassioneerd over hoe ik alles heb geconfigureerd, en ik help anderen graag. Mocht je vragen hebben, [mail me gerust](mailto:jeroen@bytecode.nl)!
+Mocht je vragen hebben, [mail me gerust](mailto:jeroen@bytecode.nl)!

@@ -8,7 +8,7 @@ h3 em { font-weight: 400; }
 h5 { margin-top: 0 !important; }
 </style>
 
-### Bytecode Digital Agency */ Co-founder, analyst/consultant, technical lead*
+### Bytecode Digital Agency */ Co-founder, software developer*
 
 ##### 01-05-2018 tot HEDEN
 
@@ -16,13 +16,13 @@ Nooijen Web Solutions bestond uit een team van samenwerkende freelancers. Echter
 
 Voor meer informatie over Bytecode, zie [bytecode.nl](https://bytecode.nl).
 
-###### Gebruikte technieken (meest voorkomend in bold)
+###### Meest gebruikte technieken
 
-* Javascript/Typescript: NodeJS, ReactJS, React Native
+* Javascript/Typescript: ReactJS, React Native, Node.JS
 * PHP: Laravel, WordPress, Magento 2
 * Databases: PostgreSQL, MySQL
 
-_Om meer te lezen over de technieken waar ik momenteel veel mee werk, bekijk de [expertise-pagina](/expertise)._
+_Om meer te lezen over mijn meest gebruikte technieken, bekijk de [expertise-pagina](/expertise)._
 
 <br>
 
@@ -34,9 +34,11 @@ Vanaf 2009 maakte ik regelmatig websites voor vrienden en familie. In 2014 ben i
 
 ###### Technieken
 
-* PHP: Laravel, WordPress, OpenCart, Magento 2
-* Javascript/Typescript: ReactJS, React Native
-* Databases: MySQL
+* Javascript/Typescript: ReactJS, React Native, NodeJS
+* PHP: Laravel, WordPress/Woocommerce, Magento 2
+* Python: Flask
+* Java & Scala: Spring & Spark
+* Databases: MySQL, PostgreSQL
 * Webhosting en serverbeheer
 
 <br>
