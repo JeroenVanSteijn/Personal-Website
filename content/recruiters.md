@@ -16,7 +16,7 @@ Mijn beschikbaarheid is:
 * Maximaal 1 dag (of 2 halve dagen) in de week on-site
 * Hiernaast maximaal 3 dagen remote
 
-Momenteel hanteer ik een uurtarief van €95. Dit uurtarief is inclusief reiskosten, en exclusief omzetbelasting. Voor volledig remote werk is het uurtarief €90.
+Momenteel hanteer ik een uurtarief van €85. Dit uurtarief is inclusief reiskosten, en exclusief omzetbelasting.
 
 #### Technieken
 
