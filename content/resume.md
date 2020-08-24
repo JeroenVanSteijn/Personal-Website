@@ -52,7 +52,9 @@ Momenteel hanteer ik een uurtarief van €85. Dit uurtarief is inclusief reiskos
 * Database query optimization
 * SQL (MySQL, PostgreSQL)
 * Data Science: Python, Scala, R
-----------------------------------------------------------------
+
+<hr />
+<br />
 
 ## Professionele werk ervaring
 
