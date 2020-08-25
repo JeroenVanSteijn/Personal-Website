@@ -23,6 +23,8 @@ Meer over mij persoonlijk is te vinden op mijn LinkedIn: https://www.linkedin.co
 
 Ik ben op dit moment **beschikbaar** voor Freelance/Detachering opdrachten.
 
+Mijn beschikbaarheid is ca. 32 uur per week.
+
 Momenteel hanteer ik een uurtarief van €85 exclusief omzetbelasting.
 
 ## Technologieën
