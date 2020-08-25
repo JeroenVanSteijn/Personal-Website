@@ -17,27 +17,33 @@ h5 { margin-top: 0 !important; }
 
 ### Beschikbaarheid en uurtarief
 
-Ik ben beschikbaar voor Freelance/Detachering opdrachten.
+Ik ben op dit moment **beschikbaar** voor Freelance/Detachering opdrachten.
 
-Momenteel hanteer ik een uurtarief van €85. Dit uurtarief is inclusief reiskosten, en exclusief omzetbelasting.
-
+Momenteel hanteer ik een uurtarief van €85 exclusief omzetbelasting.
 
 ## Technologieën
 
+De technieken waar ik momenteel het meeste mee werk staan in **bold**.
+
 ### Frontend en mobile development
 
-* React+Typescript (incl. Redux, Styled-Components, Gatsby, Next.JS, Jest, Enzyme)
-* React Native / Expo
-* Porgressive Web Apps
+* **React+Typescript** (incl. Redux, Styled-Components, Gatsby, Next.JS, Jest, Enzyme)
+* Progressive Web Apps
+* Angular
+* Javascript (regular)
 
+## Mobile development
+
+* **React Native**
+* Ionic 2+, Apache Cordova & Phonegap
 
 ### Backend development
 
-* Typescript (NodeJS, Express)
-* PHP (Laravel, custom WordPress)
-* Java
+* **Typescript (NodeJS, Express)**
+* **PHP (Laravel, custom WordPress)**
+* **Java (Spring Boot)**
 * Python (Flask)
-* Golang
+* Golang (Gin)
 
 ### Server management
 
@@ -49,10 +55,17 @@ Momenteel hanteer ik een uurtarief van €85. Dit uurtarief is inclusief reiskos
 
 ### Other
 
-* Database query optimization
+* Git
+* Continious Integration & Continious Delivery
+* Unit, integration and end-to-end testing
 * SQL (MySQL, PostgreSQL)
+* Database query optimization
+* Webshops (Woocommerce, Magento, CCV Shop, Lightspeed, Shopify)
 * Data Science: Python, Scala, R
+* Neural networks en machine learning
+* Computer networking (DNS, TCP, UTP, (web)RTC, websockets)
 
+<br />
 <hr />
 <br />
 
@@ -62,7 +75,9 @@ Momenteel hanteer ik een uurtarief van €85. Dit uurtarief is inclusief reiskos
 
 ##### 01-05-2018 tot HEDEN
 
-Nooijen Web Solutions bestond uit een team van samenwerkende freelancers. Echter merkten we dat dit met de steeds grotere projecten problemen op kon leveren, mede omdat we geen eigen kantoor hadden. Hierom is Bytecode Digital Agency B.V. opgericht. Hetzelfde team, maar dan een écht vast team (momenteel 6 vaste werknemers), in plaats van een groep freelancers. Vanaf 1 juli 2018 hebben wij een eigen pand in Delfgauw vanuit waar wij onze werkzaamheden verrichten.
+Als een van de oprichters van Bytecode ben ik onderdeel van, en geef ik leiding aan, een multidisciplinair team van designers, frontend developers, backend developers, onderzoekers en marketeers. Behalve dat ik zowel backend als frontend ontwikkel waar nodig, verzorg ik ook het project mangement en klantencontact voor het grootste deel van onze opdrachten.
+
+Tijdens mijn tijd bij Bytecode ben ik meerdere malen ad interim ingezet om andere web/marketing bureau's te helpen naar een 'next level', zowel voor hun processen als de gebruikte technieken.
 
 Voor meer informatie over Bytecode, zie [bytecode.nl](https://bytecode.nl).
 
@@ -70,9 +85,9 @@ Voor meer informatie over Bytecode, zie [bytecode.nl](https://bytecode.nl).
 
 * Javascript/Typescript: ReactJS, React Native, Node.JS
 * PHP: Laravel, WordPress, Magento 2
+* Overig: Java, Python & Golang
 * Databases: PostgreSQL, MySQL
-
-_Om meer te lezen over mijn meest gebruikte technieken, bekijk de [expertise-pagina](/expertise)._
+* Webhosting en serverbeheer
 
 <br>
 
@@ -104,3 +119,16 @@ Toen ik 16 was ben ik ongeveergratis.nl begonnen om alles te leren over de werel
 * PHP
 * WordPress + WooCommerce
 * jQuery
+
+<br />
+<hr />
+<br />
+
+## Opleiding
+
+### Bachelor's degree, Computer Science
+
+- @ TU Delft
+- 2017-2020
+- 7.9 GPA
+- Specializations: Artificial Intelligence, Big Data and Data Mining
