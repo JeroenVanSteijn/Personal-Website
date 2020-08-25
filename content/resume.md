@@ -17,6 +17,7 @@ h5 { margin-top: 0 !important; }
 </style>
 
 <!-- TODO: Schrijf intro + voeg foto toe. -->
+Meer over mij persoonlijk is te vinden op mijn LinkedIn: https://www.linkedin.com/in/jjvansteijn/
 
 ### Beschikbaarheid en uurtarief
 
