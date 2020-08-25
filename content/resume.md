@@ -10,6 +10,9 @@ h5 { margin-top: 0 !important; }
     nav {
         display: none;
     }
+    html {
+        font-size: 40%;
+    }
 }
 </style>
 
@@ -66,7 +69,7 @@ De technieken waar ik momenteel het meeste mee werk staan in **bold**.
 * Computer networking (DNS, TCP, UTP, (web)RTC, websockets)
 
 <br />
-<hr />
+<hr style="page-break-before: always" />
 <br />
 
 ## Professionele werk ervaring
@@ -121,14 +124,14 @@ Toen ik 16 was ben ik ongeveergratis.nl begonnen om alles te leren over de werel
 * jQuery
 
 <br />
-<hr />
+<hr style="page-break-before: always" />
 <br />
 
 ## Opleiding
 
 ### Bachelor's degree, Computer Science
 
-- @ TU Delft
+- @TU Delft
 - 2017-2020
 - 7.9 GPA
 - Specializations: Artificial Intelligence, Big Data and Data Mining
